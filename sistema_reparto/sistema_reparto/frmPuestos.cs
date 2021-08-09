@@ -77,7 +77,7 @@ namespace sistema_reparto
 
         private void btnPuesto_MouseClick(object sender, MouseEventArgs e)
         {
-            
+
         }
 
         private void btnCliente_MouseClick(object sender, MouseEventArgs e)
@@ -307,13 +307,23 @@ namespace sistema_reparto
         private void pnlBotonGuardarP_MouseClick(object sender, MouseEventArgs e)
         {
             /* Inicio de ejecucion de funcion insertar un Puestp */
-            String estatusPuesto = "A";
-            Puesto puesto = funObtenerTxt(estatusPuesto);
-            puesto.funInsertar();
-            /* Final de ejecucion de funcion insertar un Puesto */
 
-            funCargarTabla(null);
-            funVaciarCampos();
+            if(txtIdPuesto.Text=="" && txtNombrePuesto.Text == "")
+            {
+                MessageBox.Show("No se pueden ingresar campos vacios", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                String estatusPuesto = "A";
+                Puesto puesto = funObtenerTxt(estatusPuesto);
+                puesto.funInsertar();
+                /* Final de ejecucion de funcion insertar un Puesto */
+
+                funCargarTabla(null);
+                funVaciarCampos();
+            }
+
+            
         }
 
         public Puesto funObtenerTxt(String estatus)
@@ -680,6 +690,257 @@ namespace sistema_reparto
         private void picSubUbicacion_MouseLeave(object sender, EventArgs e)
         {
             pnlSubUbicacion.BackColor = colorNormalPuesto;
+        }
+
+        private void btnTipoMovimiento_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmTipoMovimiento tipoM = new frmTipoMovimiento();
+            tipoM.Visible = true;
+
+            Visible = false;
+        }
+
+        private void lblTipoMovimiento_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmTipoMovimiento tipoM = new frmTipoMovimiento();
+            tipoM.Visible = true;
+
+            Visible = false;
+        }
+
+        private void picTipoMovimiento_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmTipoMovimiento tipoM = new frmTipoMovimiento();
+            tipoM.Visible = true;
+
+            Visible = false;
+        }
+
+        private void panel3_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmRuta ruta = new frmRuta();
+            ruta.Visible = true;
+
+            Visible = false;
+        }
+
+        private void label9_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmRuta ruta = new frmRuta();
+            ruta.Visible = true;
+
+            Visible = false;
+        }
+
+        private void pictureBox2_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmRuta ruta = new frmRuta();
+            ruta.Visible = true;
+
+            Visible = false;
+        }
+
+        private void panel3_MouseHover(object sender, EventArgs e)
+        {
+            btnRuta.BackColor = colorHoverPuesto;
+        }
+
+        private void label9_MouseHover(object sender, EventArgs e)
+        {
+            btnRuta.BackColor = colorHoverPuesto;
+        }
+
+        private void pictureBox2_MouseHover(object sender, EventArgs e)
+        {
+            btnRuta.BackColor = colorHoverPuesto;
+        }
+
+        private void btnTipoMovimiento_MouseHover(object sender, EventArgs e)
+        {
+            btnTipoMovimiento.BackColor = colorHoverPuesto;
+        }
+
+        private void lblTipoMovimiento_MouseHover(object sender, EventArgs e)
+        {
+            btnTipoMovimiento.BackColor = colorHoverPuesto;
+        }
+
+        private void picTipoMovimiento_MouseHover(object sender, EventArgs e)
+        {
+            btnTipoMovimiento.BackColor = colorHoverPuesto;
+        }
+
+        private void btnRuta_MouseLeave(object sender, EventArgs e)
+        {
+            btnRuta.BackColor = colorNormalPuesto;
+        }
+
+        private void label9_MouseLeave(object sender, EventArgs e)
+        {
+            btnRuta.BackColor = colorNormalPuesto;
+        }
+
+        private void pictureBox2_MouseLeave(object sender, EventArgs e)
+        {
+            btnRuta.BackColor = colorNormalPuesto;
+        }
+
+        private void btnTipoMovimiento_MouseLeave(object sender, EventArgs e)
+        {
+            btnTipoMovimiento.BackColor = colorNormalPuesto;
+        }
+
+        private void lblTipoMovimiento_MouseLeave(object sender, EventArgs e)
+        {
+            btnTipoMovimiento.BackColor = colorNormalPuesto;
+        }
+
+        private void picTipoMovimiento_MouseLeave(object sender, EventArgs e)
+        {
+            btnTipoMovimiento.BackColor = colorNormalPuesto;
+        }
+
+        private void btnTipoTransporte_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmTipoTransporte objTipoT = new frmTipoTransporte();
+
+            objTipoT.Visible = true;
+            Visible = false;
+        }
+
+        private void btnTipoTransporte_MouseHover(object sender, EventArgs e)
+        {
+            btnTipoTransporte.BackColor = colorHoverPuesto;
+        }
+
+        private void btnTipoTransporte_MouseLeave(object sender, EventArgs e)
+        {
+            btnTipoTransporte.BackColor = colorNormalPuesto;
+        }
+
+        private void lblTipoTransporte_MouseHover(object sender, EventArgs e)
+        {
+            btnTipoTransporte.BackColor = colorHoverPuesto;
+        }
+
+        private void lblTipoTransporte_MouseLeave(object sender, EventArgs e)
+        {
+            btnTipoTransporte.BackColor = colorNormalPuesto;
+        }
+
+        private void picIconoTipoTransporte_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmTipoTransporte obj = new frmTipoTransporte();
+
+            obj.Visible = true;
+
+            Visible = false;
+        }
+
+        private void picIconoTipoTransporte_MouseHover(object sender, EventArgs e)
+        {
+            btnTipoTransporte.BackColor = colorHoverPuesto;
+        }
+
+        private void picIconoTipoTransporte_MouseLeave(object sender, EventArgs e)
+        {
+            btnTipoTransporte.BackColor = colorNormalPuesto;
+        }
+
+        private void lblTipoTransporte_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmTipoTransporte obj = new frmTipoTransporte();
+
+            obj.Visible = true;
+
+            Visible = false;
+        }
+
+        private void btnUsuarios_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmUsuarios usuario = new frmUsuarios();
+            usuario.Visible = true;
+
+            Visible = false;
+        }
+
+        private void lblUsuarios_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmUsuarios usuario = new frmUsuarios();
+            usuario.Visible = true;
+
+            Visible = false;
+        }
+
+        private void picIconoUsuarios_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmUsuarios usuario = new frmUsuarios();
+            usuario.Visible = true;
+
+            Visible = false;
+        }
+
+        private void btnPaqueteEncabezado_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmPaqueteEncabezado obj = new frmPaqueteEncabezado();
+            obj.Visible = true;
+
+            Visible = false;
+        }
+
+        private void lblPaqueteEncabezado_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmPaqueteEncabezado obj = new frmPaqueteEncabezado();
+            obj.Visible = true;
+
+            Visible = false;
+        }
+
+        private void picIconoPaqueteE_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmPaqueteEncabezado obj = new frmPaqueteEncabezado();
+            obj.Visible = true;
+
+            Visible = false;
+        }
+
+        private void btnPaqueteEncabezado_MouseHover(object sender, EventArgs e)
+        {
+            btnPaqueteEncabezado.BackColor = colorHoverPuesto;
+        }
+
+        private void lblPaqueteEncabezado_MouseHover(object sender, EventArgs e)
+        {
+            btnPaqueteEncabezado.BackColor = colorHoverPuesto;
+        }
+
+        private void picIconoPaqueteE_MouseHover(object sender, EventArgs e)
+        {
+            btnPaqueteEncabezado.BackColor = colorHoverPuesto;
+        }
+
+        private void btnPaqueteEncabezado_MouseLeave(object sender, EventArgs e)
+        {
+            btnPaqueteEncabezado.BackColor = colorNormalPuesto;
+        }
+
+        private void lblPaqueteEncabezado_MouseLeave(object sender, EventArgs e)
+        {
+            btnPaqueteEncabezado.BackColor = colorHoverPuesto;
+        }
+
+        private void picIconoPaqueteE_MouseLeave(object sender, EventArgs e)
+        {
+            btnPaqueteEncabezado.BackColor = colorHoverPuesto;
+        }
+
+        private void pnlEmpleado_MouseClick(object sender, MouseEventArgs e)
+        {
+            frmEmpleado obj = new frmEmpleado();
+
+            obj.Visible = true;
+
+            Visible = false;
         }
         /* Final Llenando campos de mi busqueda en la tabla */
 

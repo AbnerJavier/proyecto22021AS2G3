@@ -164,3 +164,184 @@ C:\Users\Javier\Desktop\SistemaReparto(BU)\sistema_reparto\sistema_reparto\obj\D
 C:\Users\Javier\Desktop\SistemaReparto(BU)\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CopyComplete
 C:\Users\Javier\Desktop\SistemaReparto(BU)\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.exe
 C:\Users\Javier\Desktop\SistemaReparto(BU)\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.pdb
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe.config
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.pdb
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\Google.Protobuf.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\Zstandard.Net.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\Renci.SshNet.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\System.Buffers.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\System.Memory.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\bin\Debug\MySql.Data.xml
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csprojAssemblyReference.cache
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmDepartamento.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPrincipal.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPuestos.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmRuta.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmSubUbicacion.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmtipoEmpleado.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoMovimiento.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUbicacion.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.Properties.Resources.resources
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.GenerateResource.cache
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CopyComplete
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.exe
+C:\Users\Brayan Cifuentes\Desktop\OriginalUnir\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.pdb
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe.config
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.pdb
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\Google.Protobuf.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\Zstandard.Net.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\Ubiety.Dns.Core.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\Renci.SshNet.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\System.Buffers.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\K4os.Hash.xxHash.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\System.Memory.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\bin\Debug\MySql.Data.xml
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csprojAssemblyReference.cache
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmDepartamento.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPrincipal.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPuestos.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmRuta.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmSubUbicacion.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmtipoEmpleado.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoMovimiento.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUbicacion.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.Properties.Resources.resources
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.GenerateResource.cache
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CoreCompileInputs.cache
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CopyComplete
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.exe
+D:\Proyectos_Git_Analisis\SistemaRepartoV2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.pdb
+C:\Users\Wilmer\Documents\Mantenimiento\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmRuta.resources
+C:\Users\Wilmer\Documents\Mantenimiento\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmSubUbicacion.resources
+C:\Users\Wilmer\Documents\Mantenimiento\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoMovimiento.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe.config
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.pdb
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\Google.Protobuf.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\Zstandard.Net.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\Renci.SshNet.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\System.Buffers.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\System.Memory.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\bin\Debug\MySql.Data.xml
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csprojAssemblyReference.cache
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmDepartamento.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPrincipal.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPuestos.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmRuta.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmSubUbicacion.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmtipoEmpleado.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoMovimiento.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoTransporte.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUbicacion.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.Properties.Resources.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.GenerateResource.cache
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CoreCompileInputs.cache
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CopyComplete
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.exe
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\BACKUP_TipoTransporte\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.pdb
+C:\Users\Langas\source\repos\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmDepartamento.resources
+C:\Users\Langas\source\repos\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmRuta.resources
+C:\Users\Langas\source\repos\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmSubUbicacion.resources
+C:\Users\Langas\source\repos\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmtipoEmpleado.resources
+C:\Users\Langas\source\repos\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoMovimiento.resources
+C:\Users\Langas\source\repos\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoTransporte.resources
+C:\Users\Langas\source\repos\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUbicacion.resources
+C:\Users\Langas\source\repos\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUsuarios.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe.config
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.pdb
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\Google.Protobuf.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\Zstandard.Net.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\Renci.SshNet.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\System.Buffers.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\System.Memory.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\bin\Debug\MySql.Data.xml
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csprojAssemblyReference.cache
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmDepartamento.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPaqueteEncabezado.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPrincipal.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPuestos.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmRuta.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmSubUbicacion.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmtipoEmpleado.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoMovimiento.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoTransporte.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUbicacion.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUsuarios.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.Properties.Resources.resources
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.GenerateResource.cache
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CopyComplete
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.exe
+C:\Users\Wilmer\Desktop\BU08\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.pdb
+C:\Users\Brayan Cifuentes\Desktop\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPaqueteEncabezado.resources
+C:\Users\Brayan Cifuentes\Desktop\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmRuta.resources
+C:\Users\Brayan Cifuentes\Desktop\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmSubUbicacion.resources
+C:\Users\Brayan Cifuentes\Desktop\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmtipoEmpleado.resources
+C:\Users\Brayan Cifuentes\Desktop\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoMovimiento.resources
+C:\Users\Brayan Cifuentes\Desktop\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoTransporte.resources
+C:\Users\Brayan Cifuentes\Desktop\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUsuarios.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe.config
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.exe
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\sistema_reparto.pdb
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\Google.Protobuf.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\Zstandard.Net.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\Renci.SshNet.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\System.Buffers.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\System.Memory.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\bin\Debug\MySql.Data.xml
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmDepartamento.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmEmpleado.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPaqueteEncabezado.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPrincipal.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmPuestos.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmRuta.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmSubUbicacion.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmtipoEmpleado.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoMovimiento.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmTipoTransporte.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUbicacion.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.frmUsuarios.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.Properties.Resources.resources
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.GenerateResource.cache
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.csproj.CopyComplete
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.exe
+C:\Users\jorgi\Desktop\proyectoanalisis2\sistema_reparto\sistema_reparto\obj\Debug\sistema_reparto.pdb
